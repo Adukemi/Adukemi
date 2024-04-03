@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adukemi
-- 👀 I’m interested in computer security
-- 🌱 I’m currently working with AllureTech Consulting Limited as the Lead Development Executive.
-- 💞️ I’m looking to collaborate on computer security research
+- 👋 Hi, I’m Abisola Deborah Lasisi
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently working freelance as a data analyst.
+- 💞️ I’m looking to work as a data analyst
 - 📫 How to reach me bisola287@gmail.com; +2348121600032
 
 <!---
