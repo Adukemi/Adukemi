@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub!
+> 👋 Welcome to my GitHub!
 
 🚀 About Me
 
@@ -21,7 +21,10 @@ Enhancing my understanding of advanced machine learning for healthcare analytics
 Exploring end-to-end data engineering pipelines.
 
 📫 Get in Touch
+
 LinkedIn: www.linkedin.com/in/abisolalasisi
+
 Portfolio: https://techfreakconsulting.com/abisoladataanalyst-portfolio/ 
-Email: [bisola287@gmail.com]
+
+Email: bisola287@gmail.com
 
