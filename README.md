@@ -8,3 +8,7 @@
 Adukemi/Adukemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Skills and Expertise
+- Programming: Python, SQL
+- AI & Data Analytics: Data Visualization, Machine Learning
+- Tools & Framework: Excel, PowerBI
