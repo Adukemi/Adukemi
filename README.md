@@ -11,15 +11,20 @@ You can click the Preview link to take a look at your changes.
 💼 Skills & Tools
 
 Data Visualization: Power BI, Excel
+
 Programming: Python (Pandas, Matplotlib, Seaborn)
+
 Databases: PostgreSQL
+
 Analytics: Exploratory Data Analysis (EDA), Healthcare Metrics
+
 
 
 🌱 What I’m Working On
 
 Enhancing my understanding of advanced machine learning for healthcare analytics.
 Exploring end-to-end data engineering pipelines.
+
 
 
 📫 Get in Touch
