@@ -1,4 +1,4 @@
-> 👋 Welcome to my GitHub!
+👋 Welcome to my GitHub!
 
 🚀 About Me
 
@@ -15,10 +15,12 @@ Programming: Python (Pandas, Matplotlib, Seaborn)
 Databases: PostgreSQL
 Analytics: Exploratory Data Analysis (EDA), Healthcare Metrics
 
+
 🌱 What I’m Working On
 
 Enhancing my understanding of advanced machine learning for healthcare analytics.
 Exploring end-to-end data engineering pipelines.
+
 
 📫 Get in Touch
 
