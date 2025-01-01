@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-Hi, I’m Abisola Lasisi, a passionate Data Analyst with experience in Power BI, Python, PostgreSQL, and Excel. My work involves uncovering meaningful insights from data and delivering impactful visualizations to support decision-making. I’m diving deeper into Healthcare Analytics, exploring key metrics like Length of Stay (LOS) and Cost per Discharge to uncover trends and optimize processes.
+Hi, I’m Abisola Lasisi, a passionate Data Scientist and Analyst with experience in Power BI, Python, PostgreSQL, and Excel. My work involves uncovering meaningful insights from data and delivering impactful visualizations to support decision-making. I’m diving deeper into Healthcare Analytics, exploring key metrics like Length of Stay (LOS) and Cost per Discharge to uncover trends and optimize processes.
 
 <!---
 Adukemi/Adukemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
