@@ -29,6 +29,8 @@ Exploring end-to-end data engineering pipelines.
 
 📫 Get in Touch
 
+Project: https://github.com/Adukemi/MyProjects
+
 LinkedIn: www.linkedin.com/in/abisolalasisi
 
 Portfolio: https://techfreakconsulting.com/abisoladataanalyst-portfolio/ 
